@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">A passionate frontend developer focusing on React, Laravel & Node.js. Currently studying CompSci. Also Passionate about creating intuitive UX/UI designs.</h3>
+<h1 align="left">Hi 👋, I'm Alex</h1>
+<h3 align="left">A passionate frontend developer focusing on React, Laravel & Node.js. Currently studying CompSci. Also Passionate about creating intuitive UX/UI designs.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
